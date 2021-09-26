@@ -1,0 +1,51 @@
+{
+  "roomName": "string",
+  "dmUse": true,
+  "recording": true,
+  "roomType": "001",
+  "participantList": [
+    {
+      "key": "prof-001",
+      "type": "001"
+    },
+    {
+      "key": "prof-002",
+      "type": "002"
+    },
+    {
+      "key": "stud-001",
+      "type": "003"
+    },
+    {
+      "key": "stud-002",
+      "type": "003"
+    },
+    {
+      "key": "stud-003",
+      "type": "003"
+    }
+  ],
+  "questionList": [
+    {
+      "key": "string",
+      "objective": "001",
+      "answerType": "001",
+      "contents": "string",
+      "itemList": [
+        {
+          "key": "string",
+          "contents": "string",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
+
+
+
+https://dev-registry.hypermeeting.biz/meeting/184-221-3067?membershipId=prof-001
+https://dev-registry.hypermeeting.biz/meeting/184-221-3067?membershipId=prof-002
+https://dev-registry.hypermeeting.biz/meeting/184-221-3067?membershipId=stud-001
+https://dev-registry.hypermeeting.biz/meeting/184-221-3067?membershipId=stud-002
+https://dev-registry.hypermeeting.biz/meeting/184-221-3067?membershipId=stud-003
