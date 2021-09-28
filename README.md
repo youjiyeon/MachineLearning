@@ -1,6 +1,6 @@
 # MachineLearning
 
-## 
+##SVC
 
 # How to install & use this project
 anaconda prompt에서 해당 내용 실행
