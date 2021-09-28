@@ -5,7 +5,7 @@
 
 tensorflow에서 keras를 사용하여 올바른 예측이 나오도록 이미지를 학습
 
-<학습 정확도>
+                                                           <학습 정확도>
 
 ![image](https://user-images.githubusercontent.com/57094856/135087659-0f3872b8-1eea-4675-a18d-fc0d701f5ee7.png)
 
